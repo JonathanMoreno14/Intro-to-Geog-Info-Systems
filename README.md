@@ -9,14 +9,14 @@ GEOG 30313: INTRODUCTION TO GEOGRAPHIC INFORMATION SYSTEMS Course that I took in
 
 
 ## Assignments:
-#### Prompt
+### Prompt
 
  > Your supervisor has asked you to prepare a report on the
-geography of aging within the County. In particular, she is very interested in producing
+geography of aging within the County. In particular, she is very interested in **producing
 maps that precisely illustrate where communities with proportionally large
-numbers of elderly people are located. Further, given your experience working with
+numbers of elderly people are located**. Further, given your experience working with
 Census data and HCAAA outreach efforts post-Hurricane Harvey, she also wants you to
-identify the most economically vulnerable elderly communities, as this is information
+identify **the most economically vulnerable elderly communities**, as this is information
 that will help guide the targeted social programs that HCAAA intends to carry out. Your
 maps and analysis will constitute a crucial part of your supervisor’s presentation to the
 HCAAA advisory board.
@@ -28,7 +28,7 @@ HCAAA advisory board.
 
 ****
 
-#### Prompt
+### Prompt
 
 > THA is interested in embarking on a project that outlines areas of unmet health care need
 within the state of Texas. **Specifically, they are interested in determining three
