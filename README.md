@@ -3,12 +3,12 @@ GEOG 30313: INTRODUCTION TO GEOGRAPHIC INFORMATION SYSTEMS Course that I took in
 
 ## Tools:
 
-**ArcGIS Pro**
+* **ArcGIS Pro**
 
-**ArcGIS Online**
+* **ArcGIS Online**
 
 
-#### Samples Projects:
+#### Assignments:
 
 
 ![harriscountyelderly](https://user-images.githubusercontent.com/11635523/50261913-4bbae380-03d4-11e9-881c-6ec4fe02f8cb.jpg)
